@@ -1,7 +1,15 @@
 body{
+	font-size:1.5vw;
 	background-color:darkblue;
+}
+h1,h2,h3{
+	font-family: 'Londrina Solid', cursive;
 }
 
 h1{
 	color:lavender;
+	text-align:center;
+	padding:3vw;
+	font-size:350%;
 }
+
